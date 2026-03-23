@@ -1,6 +1,6 @@
 # Buenas! Soy Ezequiel 👋
 
-⚡ Actualmente trabajo como Frontend Developer con foco en evolucionar hacia roles de Product (PM / PO / Project Manager).  
+⚡ Actualmente trabajo como Frontend Developer con foco en evolucionar hacia roles de Product (PM / PO).  
 Me interesa entender el problema detrás de lo que construyo y no solo la implementación.
 
 ---
